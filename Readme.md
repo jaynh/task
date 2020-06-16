@@ -11,4 +11,4 @@
 
 
 ## 4주차 과제 (2020.06.11)
-- [딥러닝 용어정리, 클론코딩, 딥러닝 순전파&역전파 ](https://github.com/jaynh/task/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
+- [딥러닝 용어정리, 클론코딩, 딥러닝 순전파&역전파 ](https://github.com/jaynh/task/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
